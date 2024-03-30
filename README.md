@@ -1,1 +1,1 @@
-# Face-Recognition - PRML-Course-Project
+# Face-Recognition -- PRML-Course-Project
