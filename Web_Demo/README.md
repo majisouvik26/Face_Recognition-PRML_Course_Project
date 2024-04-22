@@ -54,7 +54,7 @@ streamlit run app.py
 
 - The app assumes that you have a pre-trained model (`demo.pkl`) available in the same directory as `app.py`. If you don't have this file, the app will not work.
 - The app is designed to work with PNG image files. Other image formats are not be supported.
-- You must make sure that your image provided as input must be of these persons- Ariel Sharon, Colin_Powell, Donald_Rumsfeld, George_W_Bush, Gerhard_Schroeder, Hugo_Chavez, Tony_Blair.
+- You must make sure that your image provided as input must be of these persons- Ariel Sharon, Colin Powell, Donald Rumsfeld, George W Bush, Gerhard Schroeder, Hugo Chavez, Tony Blair.
 - Only images with two spatial dimensions are supported.
 - The performance of the app depends on the quality and diversity of the dataset used to train the pre-trained model.
 
