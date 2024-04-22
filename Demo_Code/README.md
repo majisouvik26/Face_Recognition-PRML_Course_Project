@@ -60,6 +60,6 @@ print("Prediction:", prediction)
 
 - The code is designed to work with the LFW dataset.
 - `demo.pkl` is trained on LFW dataset (only persons with greater than 70 images in the dataset). 
-- It can predict only those persons on which it is trained. For training it with more persons, we can make chnages in `pkl_generation_code.ipynb` file.
+- It can predict only those persons on which it is trained. For training it with more persons, you can make chnages in `pkl_generation_code.ipynb` file.
 - Only images with two spatial dimensions are supported. If using with color/multichannel images, specify `channel_axis` in `pkl_generation_code.ipynb` file.
 - The performance of the model may vary depending on the quality and diversity of the dataset used for training.
