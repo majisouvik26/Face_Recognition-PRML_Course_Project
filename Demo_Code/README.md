@@ -48,6 +48,8 @@ For pkl file(model) generation, you can use pkl_generation_code.ipynb and make s
 Now, for testing the model on a new image you can use DEMO_CODE.ipynb.
 
 1. Run the `infer(image_path)` function and provide the path to the image file.
+2. I have given some exaple images in the folders named `Ariel Sharon Dataset` & `George W Bush Dataset`
+3. This code works with almost 96% accuracy
 
 Example:
 
