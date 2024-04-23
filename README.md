@@ -71,9 +71,6 @@ Face_Recognition-PRML_Course_Project/
 ```
 
 - `classifiers/`: Contains subdirectories for different machine learning classifiers, each with code for various feature extraction techniques.
-- `dataset/`: Empty directory for storing the LFW dataset (not included in the repository due to size constraints).
-- `reports/`: Contains the mid-term and final project reports in PDF format.
-- `requirements.txt`: A file listing the required Python packages and their versions.
 - `Preprocessing_Part_.ipynb`: A Jupyter Notebook containing the preprocessing code.
 - `README.md`: This file, providing an overview of the project and instructions for usage.
 
