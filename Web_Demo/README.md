@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## Deployment
 
-[Click Here]([https://www.kaggle.com/datasets/jessicali9530/lfw-dataset](https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition))
+[Click Here](https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition)
 
 ## Acknowledgments
 
