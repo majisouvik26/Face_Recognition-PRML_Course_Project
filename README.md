@@ -91,6 +91,10 @@ The project includes two reports:
 
 Note: Detailed instructions for running Demo Code & Web Demo are provided within the respective subdirectories.
 
+## Deployment
+
+[Click Here](https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition)
+
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
