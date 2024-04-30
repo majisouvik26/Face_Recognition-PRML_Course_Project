@@ -53,10 +53,14 @@ streamlit run app.py
 ## Notes
 
 - The app assumes that you have a pre-trained model (`demo.pkl`) available in the same directory as `app.py`. If you don't have this file, the app will not work.
-- The app is designed to work with PNG image files. Other image formats are not be supported.
+- The app is designed to work with PNG image files. Other image formats are not supported.
 - You must make sure that your image provided as input must be of these persons- Ariel Sharon, Colin Powell, Donald Rumsfeld, George W Bush, Gerhard Schroeder, Hugo Chavez, Tony Blair.
 - Only images with two spatial dimensions are supported.
 - The performance of the app depends on the quality and diversity of the dataset used to train the pre-trained model.
+
+## Deployment
+
+[Click Here]([https://www.kaggle.com/datasets/jessicali9530/lfw-dataset](https://huggingface.co/spaces/souvikmaji22/lfw_face_recognition))
 
 ## Acknowledgments
 
